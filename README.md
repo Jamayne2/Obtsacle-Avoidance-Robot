@@ -1,4 +1,4 @@
-# Obtsacle-Avoidance-Robot
+# Self Driving Miniature Robot
 
 This project involves the development of a 4-wheeled robot using a Raspberry Pi Pico W, programmed to navigate and avoid obstacles autonomously. The robot is designed to intelligently choose the optimal path, effectively preventing collisions and ensuring smooth navigation.
 
